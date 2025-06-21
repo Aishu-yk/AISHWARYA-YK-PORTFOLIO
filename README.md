@@ -1,8 +1,9 @@
 # 🌐 Aishwarya Y K Portfolio Website
 
-Welcome to my official portfolio website!  
+Welcome to my official portfolio website! ✨
+
 This site represents my journey as a tech enthusiast and second-year undergraduate student pursuing Artificial Intelligence & Data Science. It's a reflection of my skills, passion, and continuous learning in the field of technology and innovation.
-✨ This is my personal portfolio website built using HTML, CSS, and JavaScript. It showcases my academic background, skills, projects, and contact information. The design is responsive and user-friendly, with smooth animations, a modern layout, and dynamic form handling using basic JavaScript DOM.
+This is my personal portfolio website built using HTML, CSS, and JavaScript. It showcases my academic background, skills, projects, and contact information. The design is responsive and user-friendly, with smooth animations, a modern layout, and dynamic form handling using basic JavaScript DOM.
 
 🔗 **Live Site**: [Click here to visit](https://aishu-yk.github.io/AISHWARYA-YK-PORTFOLIO/)
 
